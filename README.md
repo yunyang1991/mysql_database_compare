@@ -1,0 +1,3 @@
+# mysql_database_compare
+基于python的mysql数据库对比工具
+主要技术是利用python pandas的DataFrame 然后将查询的字段排序，按照行或者列进行数据对比，并输出结果
